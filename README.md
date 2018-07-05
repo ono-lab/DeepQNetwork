@@ -1,4 +1,4 @@
-# DeepQNetwork
+# deep-q-network
 
 ## このリポジトリについて
 DeepQNetwork
